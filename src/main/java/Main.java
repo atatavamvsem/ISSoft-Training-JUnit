@@ -14,7 +14,7 @@ public class Main {
         RealItem car = new RealItem();
         car.setName("Audi");
         car.setPrice(32026.9);
-        car.setWeight(1560);
+        car.setWeight(1561);
 
         VirtualItem disk = new VirtualItem();
         disk.setName("Windows");
